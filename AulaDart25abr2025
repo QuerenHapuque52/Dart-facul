@@ -1,5 +1,3 @@
-import 'package:aula7_map/aula7_map.dart' as aula7_map;
-
 void main(List<String> arguments) {
 
 ex25abr4();
