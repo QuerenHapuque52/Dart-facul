@@ -13,3 +13,18 @@ int numero=6;
   if (numero * 5 > 25) {
     print('O resultado da multiplicação é superior a 25');}
 }
+// LANCHES
+
+void main() {
+ int lanche = 2;
+  switch (lanche) {
+    case 1:
+      print ("Chicken Jr. foi selectionado");
+      break;
+    case 2:
+      print ("Opção inexistente");
+      break;
+    }
+  }
+
+
