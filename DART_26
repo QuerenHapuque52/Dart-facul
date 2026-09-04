@@ -1,0 +1,15 @@
+void main() {
+int idade=18;
+  if (idade >=18){
+    print('Você é maior de idade');
+  } else {
+    print ('Você é menor de idade');
+  }
+}
+//CASE - MULTIPLO DE 5 SUPERIOR A 25
+
+void main() {
+int numero=6;
+  if (numero * 5 > 25) {
+    print('O resultado da multiplicação é superior a 25');}
+}
