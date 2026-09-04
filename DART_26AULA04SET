@@ -29,4 +29,18 @@ void main() {
     }
   }
 
+// CONTADOR USAR DO
+
+void main() {
+ int contador = 9;
+  while ( contador < 5 ) {
+    print ("contagem: $contador");
+    contador++;
+  }
+do {
+    print ("Executa pelo menos uma vez");
+    contador--;
+  } while (contador > 5);
+}
+
 
