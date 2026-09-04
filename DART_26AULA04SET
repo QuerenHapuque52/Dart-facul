@@ -22,8 +22,10 @@ void main() {
       print ("Chicken Jr. foi selectionado");
       break;
     case 2:
-      print ("Opção inexistente");
+      print ("Big Mac foi selecionado");
       break;
+    default:
+      print ("Opção inexistente");
     }
   }
 
